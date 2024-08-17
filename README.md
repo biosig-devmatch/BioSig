@@ -26,8 +26,9 @@ What makes BioSig unique is its combination of features: a multisignature wallet
 
 ## 💻 The Stack
 1. Frontend - TypeScript, TailwindCSS
-2. UI Library - Tailwindcss, Google Fonts
-3. Web3 Development - Solidity, Thirdweb
+2. Backend - Node.js, Express.js
+3. UI Library - Tailwindcss, Google Fonts
+4. Web3 Development - Solidity, Thirdweb, Web3.js, Ethers.js
 
 ## Contract Address
 ### **Scroll**
