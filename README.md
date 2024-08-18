@@ -1,19 +1,18 @@
 # [BioSig Wallet](https://www.biosig.lol/) - Smart Contract on Scroll
 
 ## What is BioSig Wallet❓
-A biometrics solution for easy smart contract access and secure multisig signing.
+A **multisig wallet** that uses **biometric account abstraction** to enable seedless interactions and secure asset transfers across **multiple chains**.
 
 ## Product Description
 ### 📌 **Problem Statement**
 This innovative project seeks to address several key challenges currently facing the DeFi space,
-1. Onboarding Web 2 users into Web 3 is often complex and daunting.
+1. Onboarding Web 2 users into Web 3 is often complex and daunting, especially when come to transaction and wallet management.
 2. Challenges include managing seed phrases, signing multiple transactions, and navigating gas fees.
-3. These complexities can hinder mainstream adoption.
-4. High risk of errors during transactions.
-5. Multisignature solutions offer enhanced security and reduce the chances of mistakes.
+3. High risk of errors during transactions.
+4. Multisignature solutions offer enhanced security and reduce the chances of mistakes.
 
 ### ✅ **Vision**
-Simplify the onboarding process using account abstraction, making it easy for users to interact with smart contracts across all chains with minimal friction and utilize multisig to securely sign transactions.
+Simplify the onboarding process using account abstraction, making it easy for users to interact with wallet across all chains with minimal friction and utilize multisig to securely sign transactions.
 
 ### 🌟 **Unique Value Proposition**
 What makes BioSig unique is its combination of features: a multisignature wallet, biometric account abstraction, gas abstraction, and support for multichain functionality.
@@ -26,12 +25,11 @@ What makes BioSig unique is its combination of features: a multisignature wallet
 
 ## 💻 The Stack
 1. Frontend - TypeScript, TailwindCSS
-2. Backend - Node.js, Express.js
-3. UI Library - Tailwindcss, Google Fonts
-4. Web3 Development - Solidity, Thirdweb, Web3.js, Ethers.js
+2. UI Library - Tailwindcss, Google Fonts
+3. Web3 Development - Solidity, Thirdweb, Web3.js, Ethers.js
 
 ## Contract Address
 ### **Scroll**
-1. [MultiSig Factory(with name)](0x32885F7C8E9af7a9c371e1A6F99a35C5f9181244)
+1. [MultiSig Factory](0x96f45a38490D74FE6c34aEeE06c1098d5dA287d6)
 2. [MultiSig Implementation](0xc760D8A49f1EC1e5916e795AbAC6044E0C19fdaf)
 3. [MultiSig Wallet(name: anna)](0x76128f14e8a7b5f3F179161081f0D04fCAAdee21)
